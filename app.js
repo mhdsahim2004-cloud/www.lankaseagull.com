@@ -626,7 +626,7 @@ function renderHome(){
     <section class="hero">
       <div class="hero-bg" style="background-image:url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=2200&q=80');"></div>
       <video class="hero-video" autoplay muted loop playsinline preload="auto" poster="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=2200&q=80">
-        <source src="videos/lanka-seagull-hero.mp4" type="video/mp4">
+        <source src="lanka-seagull-hero.mp4" type="video/mp4">
       </video>
       <div class="hero-overlay"></div>
       ${wavesHtml()}
