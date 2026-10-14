@@ -1,0 +1,33 @@
+# Optional Apache settings (ignored by hosts that do not use Apache). Every block is guarded, so it cannot cause a 500 error.
+# If you host in a sub-folder, change the ErrorDocument path to /your-folder/404.html.
+ErrorDocument 404 /404.html
+
+# Keep the developer files (product data, notes) out of public view.
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^(source|project-notes)(/|$) - [R=404,L]
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript image/svg+xml application/json
+</IfModule>
+
+# Pages and CSS/JS are cached for one day only, so edits you upload appear quickly. Photos, video and fonts are cached longer.
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType image/webp "access plus 1 month"
+  ExpiresByType image/avif "access plus 1 month"
+  ExpiresByType video/mp4 "access plus 1 month"
+  ExpiresByType video/webm "access plus 1 month"
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType text/css "access plus 1 day"
+  ExpiresByType application/javascript "access plus 1 day"
+</IfModule>
+
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>

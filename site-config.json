@@ -1,0 +1,4 @@
+{
+ "siteUrl": "",
+ "_help": "Leave siteUrl empty until your final web address is known. Then set it to the full address ending in a slash, e.g. https://www.yourdomain.com/ or https://yourname.github.io/your-repo/ and run: python3 source/build.py"
+}
