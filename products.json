@@ -1,0 +1,539 @@
+[
+ {
+  "id": "prod-sea-cucumber",
+  "slug": "sea-cucumber",
+  "name": "Sandfish Sea Cucumber",
+  "category": "sea-cucumber",
+  "description": "Premium quality sea cucumber sourced from the sea.",
+  "unit": "kg",
+  "price": 891,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": true,
+  "image": "images/sea-cucumber.jpeg"
+ },
+ {
+  "id": "prod-sea-shells",
+  "slug": "sea-shells",
+  "name": "Sea Shells",
+  "category": "sea-shells",
+  "description": "Natural and premium quality sea shells sourced from the sea.",
+  "unit": "pcs",
+  "price": 801,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": true,
+  "image": "images/sea-shells.jpeg",
+  "reviewNotes": [
+   "Stored under the old field \"pricePerKg\" but unit is PCS: confirm this is a price PER PIECE."
+  ]
+ },
+ {
+  "id": "prod-curry-fish",
+  "slug": "curry-fish",
+  "name": "Curry Fish Sea Cucumber",
+  "category": "sea-cucumber",
+  "description": "Dried Curry Fish sea cucumber, hand-graded for size and quality.",
+  "unit": "kg",
+  "price": 941,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": true,
+  "image": "images/curry-fish.jpg"
+ },
+ {
+  "id": "prod-curry-fish-white",
+  "slug": "curry-fish-white",
+  "name": "Curry Fish (White Grade)",
+  "category": "sea-cucumber",
+  "description": "Bleached, white-grade Curry Fish sea cucumber.",
+  "unit": "kg",
+  "price": 991,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/curry-fish-white.jpg"
+ },
+ {
+  "id": "prod-baby-curry-fish",
+  "slug": "baby-curry-fish",
+  "name": "Baby Curry Fish",
+  "category": "sea-cucumber",
+  "description": "Smaller-sized, dark-grade Curry Fish sea cucumber.",
+  "unit": "kg",
+  "price": 741,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/baby-curry-fish.jpg"
+ },
+ {
+  "id": "prod-golden-sandfish-2",
+  "slug": "golden-sandfish-premium",
+  "name": "Golden Sandfish Sea Cucumber",
+  "category": "sea-cucumber",
+  "description": "Premium dried Golden Sandfish sea cucumber.",
+  "unit": "kg",
+  "price": null,
+  "priceStatus": "on-request",
+  "available": true,
+  "featured": true,
+  "image": "images/golden-sandfish-2.jpg",
+  "unconfirmedStoredPrice": 124,
+  "reviewNotes": [
+   "Stored price looks implausible next to similar products (possible missing digit); hidden until confirmed."
+  ]
+ },
+ {
+  "id": "prod-loli-fish",
+  "slug": "loli-fish",
+  "name": "Lolly Fish Sea Cucumber",
+  "category": "sea-cucumber",
+  "description": "Dried Loli Fish sea cucumber, dark grade.",
+  "unit": "kg",
+  "price": 841,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/loli-fish.webp"
+ },
+ {
+  "id": "prod-sanfish",
+  "slug": "sanfish",
+  "name": "Sanfish",
+  "category": "sea-cucumber",
+  "description": "Dried Sanfish sea cucumber, ridged skin, sourced and graded for export.",
+  "unit": "kg",
+  "price": 891,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/sanfish.jpg"
+ },
+ {
+  "id": "prod-whate-nool",
+  "slug": "whate-nool",
+  "name": "Whate Nool",
+  "category": "sea-cucumber",
+  "description": "Dried Whate Nool sea cucumber.",
+  "unit": "kg",
+  "price": null,
+  "priceStatus": "on-request",
+  "available": true,
+  "featured": false,
+  "image": "images/whate-nool.jpg",
+  "unconfirmedStoredPrice": 7958,
+  "reviewNotes": [
+   "Stored price looks implausible next to similar products (possible missing digit); hidden until confirmed."
+  ]
+ },
+ {
+  "id": "prod-whate-tiger",
+  "slug": "whate-tiger",
+  "name": "White Tiger Sea Cucumber",
+  "category": "sea-cucumber",
+  "description": "Dried Whate Tiger sea cucumber with distinctive textured skin.",
+  "unit": "kg",
+  "price": null,
+  "priceStatus": "on-request",
+  "available": true,
+  "featured": false,
+  "image": "images/whate-tiger.jpg",
+  "unconfirmedStoredPrice": 109,
+  "reviewNotes": [
+   "Stored price looks implausible next to similar products (possible missing digit); hidden until confirmed."
+  ]
+ },
+ {
+  "id": "prod-xiang-pi",
+  "slug": "xiang-pi",
+  "name": "Xiang Pi",
+  "category": "sea-cucumber",
+  "description": "Dried Xiang Pi sea cucumber.",
+  "unit": "kg",
+  "price": 945,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/xiang-pi.jpg"
+ },
+ {
+  "id": "prod-dhambela",
+  "slug": "dhambela",
+  "name": "Dhambela",
+  "category": "sea-cucumber",
+  "description": "Dried Dhambela sea cucumber.",
+  "unit": "kg",
+  "price": 845,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/dhambela.jpg"
+ },
+ {
+  "id": "prod-surf-red-fish",
+  "slug": "surf-red-fish",
+  "name": "Surf Red Fish Sea Cucumber",
+  "category": "sea-cucumber",
+  "description": "Dried sea cucumber, Surf Red Fish variety.",
+  "unit": "kg",
+  "price": 895,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/surf-red-fish.png"
+ },
+ {
+  "id": "prod-black-tiger",
+  "slug": "black-tiger-sea-cucumber",
+  "name": "Black Tiger Sea Cucumber",
+  "category": "sea-cucumber",
+  "description": "Dried sea cucumber, Black Tiger variety.",
+  "unit": "kg",
+  "price": 895,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/black-tiger-sea-cucumber.png"
+ },
+ {
+  "id": "prod-black-fish",
+  "slug": "black-fish-sea-cucumber",
+  "name": "Black Fish Sea Cucumber",
+  "category": "sea-cucumber",
+  "description": "Dried sea cucumber, Black Fish variety.",
+  "unit": "kg",
+  "price": 895,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/black-fish-sea-cucumber.png"
+ },
+ {
+  "id": "prod-patty-shell",
+  "slug": "patty-shell",
+  "name": "Patty Shell",
+  "category": "sea-shells",
+  "description": "Natural Patty sea shells, hand selected.",
+  "unit": "pcs",
+  "price": 858,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": true,
+  "image": "images/patty-shell.jpg",
+  "reviewNotes": [
+   "Stored under the old field \"pricePerKg\" but unit is PCS: confirm this is a price PER PIECE."
+  ]
+ },
+ {
+  "id": "prod-kachchan-shell",
+  "slug": "kachchan-shell",
+  "name": "Kachchan Shell",
+  "category": "sea-shells",
+  "description": "Natural Kachchan sea shells, hand selected.",
+  "unit": "pcs",
+  "price": 808,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/kachchan-shell.jpg",
+  "reviewNotes": [
+   "Stored under the old field \"pricePerKg\" but unit is PCS: confirm this is a price PER PIECE."
+  ]
+ },
+ {
+  "id": "prod-tapasiyem-shell",
+  "slug": "tapasiyem-shell",
+  "name": "Tapasiyem Shell",
+  "category": "sea-shells",
+  "description": "Natural Tapasiyem sea shells with banded patterning.",
+  "unit": "pcs",
+  "price": 838,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/tapasiyem-shell.jpg",
+  "reviewNotes": [
+   "Stored under the old field \"pricePerKg\" but unit is PCS: confirm this is a price PER PIECE."
+  ]
+ },
+ {
+  "id": "prod-gavuri-shell",
+  "slug": "gavuri-shell",
+  "name": "Gavuri Shell",
+  "category": "sea-shells",
+  "description": "Natural Gavuri sea shells, hand selected.",
+  "unit": "pcs",
+  "price": 808,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/gavuri-shell.jpg",
+  "reviewNotes": [
+   "Stored under the old field \"pricePerKg\" but unit is PCS: confirm this is a price PER PIECE."
+  ]
+ },
+ {
+  "id": "prod-jathi-shell",
+  "slug": "jathi-shell",
+  "name": "Jathi Shell",
+  "category": "sea-shells",
+  "description": "Natural Jathi sea shells, hand selected.",
+  "unit": "pcs",
+  "price": 808,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/jathi-shell.jpg",
+  "reviewNotes": [
+   "Stored under the old field \"pricePerKg\" but unit is PCS: confirm this is a price PER PIECE."
+  ]
+ },
+ {
+  "id": "prod-dried-sea-snail",
+  "slug": "dried-sea-snail",
+  "name": "Dried Sea Snail",
+  "category": "other-seafood",
+  "description": "Dried sea snail meat, cleaned and prepared.",
+  "unit": "kg",
+  "price": 645,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": true,
+  "image": "images/dried-sea-snail.jpg"
+ },
+ {
+  "id": "prod-dried-sea-snail-white",
+  "slug": "dried-sea-snail-white",
+  "name": "Dried Sea Snail (White Grade)",
+  "category": "other-seafood",
+  "description": "Dried sea snail meat, white grade, cleaned and prepared.",
+  "unit": "kg",
+  "price": 695,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/dried-sea-snail-white.jpg"
+ },
+ {
+  "id": "prod-sea-operculum-1",
+  "slug": "sea-operculum-natural",
+  "name": "Spider Conch Operculum",
+  "category": "other-seafood",
+  "description": "Sea snail operculum from the Spider Conch.",
+  "unit": "kg",
+  "price": 595,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/operculum-1.jpg"
+ },
+ {
+  "id": "prod-sea-operculum-2",
+  "slug": "sea-operculum-red",
+  "name": "Murex Operculum",
+  "category": "other-seafood",
+  "description": "Sea snail operculum from the Murex.",
+  "unit": "kg",
+  "price": 645,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/operculum-2.jpg"
+ },
+ {
+  "id": "prod-sea-operculum-3",
+  "slug": "sea-operculum-dark",
+  "name": "Turbinella Pyrum Shell Operculum (Grade B)",
+  "category": "other-seafood",
+  "description": "Sea snail operculum from the Turbinella Pyrum shell, Grade B.",
+  "unit": "kg",
+  "price": 545,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/operculum-3.jpg"
+ },
+ {
+  "id": "prod-sea-operculum-4",
+  "slug": "sea-operculum-golden",
+  "name": "Trapezium Shell Operculum (Grade B)",
+  "category": "other-seafood",
+  "description": "Sea snail operculum from the Trapezium shell, Grade B.",
+  "unit": "kg",
+  "price": 695,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/operculum-4.webp"
+ },
+ {
+  "id": "prod-sea-operculum-5",
+  "slug": "sea-operculum-mixed",
+  "name": "Turbinella Pyrum Shell Operculum",
+  "category": "other-seafood",
+  "description": "Sea snail operculum from the Turbinella Pyrum shell.",
+  "unit": "kg",
+  "price": 545,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/operculum-5.jpg"
+ },
+ {
+  "id": "prod-sea-operculum-6",
+  "slug": "sea-operculum-premium-red",
+  "name": "Murex Operculum (Grade B)",
+  "category": "other-seafood",
+  "description": "Sea snail operculum from the Murex, Grade B.",
+  "unit": "kg",
+  "price": 745,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/operculum-6.avif"
+ },
+ {
+  "id": "prod-trapezium-operculum",
+  "slug": "trapezium-shell-operculum",
+  "name": "Trapezium Shell Operculum",
+  "category": "other-seafood",
+  "description": "Sea snail operculum from the Trapezium shell.",
+  "unit": "kg",
+  "price": 595,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/trapezium-shell-operculum.jpg"
+ },
+ {
+  "id": "prod-babylonia-shell",
+  "slug": "babylonia-shell",
+  "name": "Babylonia Shell",
+  "category": "sea-shells",
+  "description": "Natural Babylonia (whelk) sea shells with mottled brown patterning.",
+  "unit": "pcs",
+  "price": 908,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/babylonia-shell.webp",
+  "reviewNotes": [
+   "Stored under the old field \"pricePerKg\" but unit is PCS: confirm this is a price PER PIECE."
+  ]
+ },
+ {
+  "id": "prod-cone-shell-1",
+  "slug": "cone-shell",
+  "name": "Cone Shell",
+  "category": "sea-shells",
+  "description": "Natural cone sea shell, hand selected.",
+  "unit": "pcs",
+  "price": 958,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/cone-shell-1.webp",
+  "reviewNotes": [
+   "Stored under the old field \"pricePerKg\" but unit is PCS: confirm this is a price PER PIECE."
+  ]
+ },
+ {
+  "id": "prod-frog-shell-1",
+  "slug": "frog-shell",
+  "name": "Frog Shell",
+  "category": "sea-shells",
+  "description": "Natural frog sea shell with banded brown patterning.",
+  "unit": "pcs",
+  "price": 858,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/frog-shell-1.jpg",
+  "reviewNotes": [
+   "Stored under the old field \"pricePerKg\" but unit is PCS: confirm this is a price PER PIECE."
+  ]
+ },
+ {
+  "id": "prod-frog-shell-2",
+  "slug": "frog-shell-pair",
+  "name": "Frog Shell (Pair Grade)",
+  "category": "sea-shells",
+  "description": "Natural frog sea shells, matched pair grade.",
+  "unit": "pcs",
+  "price": 878,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/frog-shell-2.jpg",
+  "reviewNotes": [
+   "Stored under the old field \"pricePerKg\" but unit is PCS: confirm this is a price PER PIECE."
+  ]
+ },
+ {
+  "id": "prod-spindle-shell",
+  "slug": "spindle-shell",
+  "name": "Spindle Shell",
+  "category": "sea-shells",
+  "description": "Natural spindle sea shell with fine striped patterning.",
+  "unit": "pcs",
+  "price": 908,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/spindle-shell.jpg",
+  "reviewNotes": [
+   "Stored under the old field \"pricePerKg\" but unit is PCS: confirm this is a price PER PIECE."
+  ]
+ },
+ {
+  "id": "prod-murex-shell",
+  "slug": "murex-shell",
+  "name": "Murex Shell",
+  "category": "sea-shells",
+  "description": "Natural Murex sea shell with distinctive spiky, frilled edges.",
+  "unit": "pcs",
+  "price": null,
+  "priceStatus": "on-request",
+  "available": true,
+  "featured": false,
+  "image": "images/murex-shell.jpg",
+  "unconfirmedStoredPrice": 105,
+  "reviewNotes": [
+   "Stored price looks implausible next to similar products (possible missing digit); hidden until confirmed.",
+   "Stored under the old field \"pricePerKg\" but unit is PCS: confirm this is a price PER PIECE."
+  ]
+ },
+ {
+  "id": "prod-cone-shell-2",
+  "slug": "cone-shell-textile",
+  "name": "Cone Shell (Textile Grade)",
+  "category": "sea-shells",
+  "description": "Natural textile cone sea shells, orange zigzag patterning.",
+  "unit": "pcs",
+  "price": 958,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/cone-shell-2.jpg",
+  "reviewNotes": [
+   "Stored under the old field \"pricePerKg\" but unit is PCS: confirm this is a price PER PIECE."
+  ]
+ },
+ {
+  "id": "prod-cone-shell-3",
+  "slug": "cone-shell-single",
+  "name": "Cone Shell (Single Grade)",
+  "category": "sea-shells",
+  "description": "Natural cone sea shell, single piece grade.",
+  "unit": "pcs",
+  "price": 938,
+  "priceStatus": "listed",
+  "available": true,
+  "featured": false,
+  "image": "images/cone-shell-3.jpg",
+  "reviewNotes": [
+   "Stored under the old field \"pricePerKg\" but unit is PCS: confirm this is a price PER PIECE."
+  ]
+ }
+]

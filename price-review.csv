@@ -1,0 +1,38 @@
+Product,Unit,Price stored in original data (LKR),Price the original site actually showed (+1.5 hidden adjustment),Price now displayed (LKR),Needs confirmation
+Sandfish Sea Cucumber,KG,891,892.5,891,
+Sea Shells,PCS,801,802.5,801,"Stored under the old field ""pricePerKg"" but unit is PCS: confirm this is a price PER PIECE."
+Curry Fish Sea Cucumber,KG,941,942.5,941,
+Curry Fish (White Grade),KG,991,992.5,991,
+Baby Curry Fish,KG,741,742.5,741,
+Golden Sandfish Sea Cucumber,KG,124,125.5,Price on request,Stored price looks implausible next to similar products (possible missing digit); hidden until confirmed.
+Lolly Fish Sea Cucumber,KG,841,842.5,841,
+Sanfish,KG,891,892.5,891,
+Whate Nool,KG,7958,7959.5,Price on request,Stored price looks implausible next to similar products (possible missing digit); hidden until confirmed.
+White Tiger Sea Cucumber,KG,109,110.5,Price on request,Stored price looks implausible next to similar products (possible missing digit); hidden until confirmed.
+Xiang Pi,KG,945,946.5,945,
+Dhambela,KG,845,846.5,845,
+Surf Red Fish Sea Cucumber,KG,895,896.5,895,
+Black Tiger Sea Cucumber,KG,895,896.5,895,
+Black Fish Sea Cucumber,KG,895,896.5,895,
+Patty Shell,PCS,858,859.5,858,"Stored under the old field ""pricePerKg"" but unit is PCS: confirm this is a price PER PIECE."
+Kachchan Shell,PCS,808,809.5,808,"Stored under the old field ""pricePerKg"" but unit is PCS: confirm this is a price PER PIECE."
+Tapasiyem Shell,PCS,838,839.5,838,"Stored under the old field ""pricePerKg"" but unit is PCS: confirm this is a price PER PIECE."
+Gavuri Shell,PCS,808,809.5,808,"Stored under the old field ""pricePerKg"" but unit is PCS: confirm this is a price PER PIECE."
+Jathi Shell,PCS,808,809.5,808,"Stored under the old field ""pricePerKg"" but unit is PCS: confirm this is a price PER PIECE."
+Dried Sea Snail,KG,645,646.5,645,
+Dried Sea Snail (White Grade),KG,695,696.5,695,
+Spider Conch Operculum,KG,595,596.5,595,
+Murex Operculum,KG,645,646.5,645,
+Turbinella Pyrum Shell Operculum (Grade B),KG,545,546.5,545,
+Trapezium Shell Operculum (Grade B),KG,695,696.5,695,
+Turbinella Pyrum Shell Operculum,KG,545,546.5,545,
+Murex Operculum (Grade B),KG,745,746.5,745,
+Trapezium Shell Operculum,KG,595,596.5,595,
+Babylonia Shell,PCS,908,909.5,908,"Stored under the old field ""pricePerKg"" but unit is PCS: confirm this is a price PER PIECE."
+Cone Shell,PCS,958,959.5,958,"Stored under the old field ""pricePerKg"" but unit is PCS: confirm this is a price PER PIECE."
+Frog Shell,PCS,858,859.5,858,"Stored under the old field ""pricePerKg"" but unit is PCS: confirm this is a price PER PIECE."
+Frog Shell (Pair Grade),PCS,878,879.5,878,"Stored under the old field ""pricePerKg"" but unit is PCS: confirm this is a price PER PIECE."
+Spindle Shell,PCS,908,909.5,908,"Stored under the old field ""pricePerKg"" but unit is PCS: confirm this is a price PER PIECE."
+Murex Shell,PCS,105,106.5,Price on request,"Stored price looks implausible next to similar products (possible missing digit); hidden until confirmed. | Stored under the old field ""pricePerKg"" but unit is PCS: confirm this is a price PER PIECE."
+Cone Shell (Textile Grade),PCS,958,959.5,958,"Stored under the old field ""pricePerKg"" but unit is PCS: confirm this is a price PER PIECE."
+Cone Shell (Single Grade),PCS,938,939.5,938,"Stored under the old field ""pricePerKg"" but unit is PCS: confirm this is a price PER PIECE."
